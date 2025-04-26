@@ -1,0 +1,36 @@
+{
+  "name": "deal-er",
+  "version": "1.0.0",
+  "description": "property listing application",
+  "keywords": [
+    "Retail",
+    "braj"
+  ],
+  "homepage": "https://github.com/gouravsharma-00/special-waddle#readme",
+  "bugs": {
+    "url": "https://github.com/gouravsharma-00/special-waddle/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravsharma-00/special-waddle.git"
+  },
+  "license": "MIT",
+  "author": "gouravsharma-00",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.7",
+    "@types/react": "^19.1.2",
+    "typescript": "^5.8.3"
+  }
+}
